@@ -1,2 +1,1 @@
 print("eqweohwqoehjqehq");
-print("оьаущцрашцрашцрш");
